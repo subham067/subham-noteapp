@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/subham-noteapp/static/css/main.073c9b0a.css",
+    "main.js": "/subham-noteapp/static/js/main.572346f6.js",
+    "static/js/787.01bce7e9.chunk.js": "/subham-noteapp/static/js/787.01bce7e9.chunk.js",
+    "static/media/logo.svg": "/subham-noteapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/subham-noteapp/index.html",
+    "main.073c9b0a.css.map": "/subham-noteapp/static/css/main.073c9b0a.css.map",
+    "main.572346f6.js.map": "/subham-noteapp/static/js/main.572346f6.js.map",
+    "787.01bce7e9.chunk.js.map": "/subham-noteapp/static/js/787.01bce7e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.572346f6.js"
+  ]
+}
